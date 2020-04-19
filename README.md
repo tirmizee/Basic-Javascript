@@ -11,3 +11,9 @@
       return !ids.includes(e.id);
     });
     document.getElementById("demo").innerHTML = JSON.stringify(res);
+    
+    
+ 
+### Ref
+
+- https://www.digitalocean.com/community/tutorials/understanding-data-types-in-javascript#numbers
